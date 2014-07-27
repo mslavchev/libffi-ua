@@ -1,0 +1,23 @@
+App1/App1.Windows/ARM/
+App1/App1.Windows/Debug/
+App1/App1.Windows/Release/
+App1/App1.Windows/Generated Files/
+App1/App1.WindowsPhone/ARM/
+App1/App1.WindowsPhone/Debug/
+App1/App1.WindowsPhone/Release/
+App1/App1.WindowsPhone/Generated Files/
+ARM/
+Debug/
+Release/
+ipch/
+libffi/libffi.Windows/ARM/
+libffi/libffi.Windows/Debug/
+libffi/libffi.Windows/Release/
+libffi/libffi.Windows/Generated Files/
+libffi/libffi.WindowsPhone/ARM/
+libffi/libffi.WindowsPhone/Debug/
+libffi/libffi.WindowsPhone/Release/
+libffi/libffi.WindowsPhone/Generated Files/
+libffi-ua.opensdf
+libffi-ua.sdf
+libffi-ua.v12.suo
